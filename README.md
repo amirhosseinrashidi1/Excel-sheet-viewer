@@ -18,5 +18,5 @@ To use this application, ensure you have Python installed on your system. You wi
   tkinter (comes with Python standard library)
 
 
-with help : @https://github.com/Mehdi1995m
+with help : https://github.com/Mehdi1995m
 
